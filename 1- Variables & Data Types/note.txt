@@ -1,0 +1,12 @@
+Chapter 1
+
+
+Topics:
+
+- Input Output [I/ O]
+
+- Variables
+
+- Data types
+
+- Operators
